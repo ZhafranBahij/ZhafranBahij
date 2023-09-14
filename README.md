@@ -4,7 +4,6 @@ Wa-wait, you didn't know about me? Well, that's normal. You can read text below 
 
 ## Some Information about Zhafran Bahij
 
-- :mortar_board: Computer Science student at State University of Jakarta
 - :sparkles: Interest in react js and laravel
 - :gem: Create mini project with react js for time killing.
 - :guardsman: Contact me if you want to collaborate or just chitchat
